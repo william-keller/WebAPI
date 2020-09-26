@@ -13,3 +13,7 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.bg-red {
+    background-color: red;
+}
