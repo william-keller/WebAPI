@@ -6,7 +6,7 @@ Listar todos veiculos
 Buscar o veiculo por id
 ### GET `api/veiculos/{id}`jsjsjw
 
-Listar veiculos da marca Fiat
+Listar veiculos da marca Fibsnsjsjat
 ### GET `api/veiculos/?marca=Fiat`
 
 Inserir um novo veiculo
