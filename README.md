@@ -7,7 +7,7 @@ Buscar o veiculo por id
 ### GET `api/veiculos/{id}`jsjsjjsjsjw
 ergergerg
 Listar veiculos da marca Fibsnsjsjatergergr
-### GET `api/veiculos/?marca=Fiat`
+### GET `api/veiculos/?marca=Fiat`ergerger
 
 Inserir um novo veiculo
 ### POST `api/veiculos`
