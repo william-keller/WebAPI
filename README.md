@@ -4,7 +4,7 @@ Listar todos veiculosggg
 ### GET `api/veiculos`jejejjwefwe
 Nsnsjhhhj
 Buscar o veiculo por idergergreg
-### GET `api/veiculos/{id}kmkjsnsn`jsjsjjsjsjwg
+### GET `api/veiculos/{id}kmkjsnsnnsn`jsjsjjsjsjwg
 ergergergergergj
 Listar veiculos da marca Fibsnsjjsnssjatergergrerewfgergr
 ### GET `api/veiculos/?marca=Fiat`ergerger
