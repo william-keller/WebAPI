@@ -4,7 +4,7 @@ Listar todos veiculosggg
 ### GET `api/veiculos`jejejjwhhefwe
 Nsnsjhhhjdddd
 Buscar o vezsiwwwculo por idejwrgergreg
-### GET `api/veiculos/{id}kmkuwjsjsjjnsnnsn`jsjsjjsjsjwg
+### GET `api/veiculos/{id}kmkuwjsjsjsjjnsnnsn`jsjsjjsjsjwg
 ergergergergergjjsjbb
 Listar veiculos da marca Fibsnsjjsjjjjsnssjatergergrerewfgergr
 ### GET `api/veiculos/?marca=Fiansnst`ergerger
