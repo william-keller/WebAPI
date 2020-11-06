@@ -6,7 +6,7 @@ Nsnsjhhhjddddjd
 Buscar o vezsiwwwculo por idejjjwrgergreg
 ### GET `api/veiculos/{id}kmjsbhjhehdjdnbhkujjwjndsjsjsjjth
 Listar veiculos da marca Fibsnnbsbsnsjejjjsjjjjsnssjatergergrerewfgergr
-### GET `api/veiculos/?marca=Fijsjansnst`erwggergerth
+### GET `api/veiculos/?marcabdb=Fijsjansnst`erwggergerth
 ergergeraergerg
 Inserir um novo veiculoregerefgwgerg
 ### POST `api/veiculos`
