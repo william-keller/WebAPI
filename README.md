@@ -9,7 +9,7 @@ Listar veiculos da marca Fibsnnjdjjdbsbsnsjejjjsjjjjsnssjatergergrerewfgergr
 ### GET `api/veiculos/?marcabdjsjjsjnsnsjjsjb=Fijsjansnst`erwggergerthwf
 ergergeraergergwef
 Inserir um novo veiculoregerefgwgergwefwef
-### POST `api/veiculos`
+### POST `api/veiculos`erg
 
 Atualizar um veiculo
 ### PUT `api/veiculos`
