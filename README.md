@@ -8,7 +8,7 @@ Buscar o vezsiwwwculo por idejjsdjjjjwrgergrsdveggg
 Listar veindculos da marca Fjsjhhibsnnjdjjdbsbsnsjejjjwfesjjjjsnssjatergergrerewfgergrrg
 ### GET `api/veiculos/?mandrcjdnabhdjdjsjjsjnrsnsjjsjb=Fijsjadfhnsnsyt`erwggergewefrtthhwf
 ergergeraergergwefegwefg
-Inserir um novo veiculoregerefgwgergwefwef
+Inserir um novo veiculoregerefgwgergwefwefwef
 ### POST `api/veiculos`erg
 ergsdv
 Atualizar um veiculo
