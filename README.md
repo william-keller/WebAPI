@@ -6,7 +6,7 @@ Nsnsjhhhjddddjdjejj
 Buscar o vezsiwwwculo por idehsjjjsjskwjsdjjjjwrgergrsdveggg
 ### GET `ndapi/veiculos/{id}bjjsj hjjsbshekmjjsjjwefejsbhjefhehdjdnbhkujjwjndgsjsjsdsjjth
 Listar veindculos da marca Fjsbndjsjhhibsnnjdjjdbsbsnsjejjjwfesjjjjsnssjatergergrerewfgergrrg
-### GET `api/veiculos/?mandrcjjdjdnabhdjdjsjjsjnrsnsjjsjerbeg=Fijsjadfhnsnsyt`erwggerefwefrtthhwf
+### GET `api/veiculos/?mandbsnrcjjdjdnabhdjdjsjjsjnrsnsjjsjerbeg=Fijsjadfhnsnsyt`erwggerefwefrtthhwf
 ergergeraergergwefegwefgjeje
 Inserir um novo veiculoregerefgwgergwefwefwefef
 ### POST `api/veiculos`erg
