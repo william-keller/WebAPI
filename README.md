@@ -4,7 +4,7 @@ Listar todos veiculosggg
 ### GET `api/veiculos`jejejjwhdhhhesfweerg
 Nsnsjhhhjddddjdjejjewf
 Buscar o vezsiwwwculo por idehsjjjsjskwjsdjjjjwrgergrsdvegggwef
-### GET `ndapi/veiculos/{id}bjjsj hjjsbshekmjjsjjwefejsbhjefhehdjdnbhkujjwjergjndgsjsjsdsjjth
+### GET `ndapi/veiculos/{id}bjjsj hjjsbshekmjjsjjwefejsbhjefhehdjdnbhkujjwjergjndgewfsjsjsdsjjth
 Listar veindculos da marca Fnanjsbndjsjhhibsnnjdjjdbsbsnsjejjjwfesjjjjsns,jfsjatergergrgjerrerewfgergrrg
 ### GET `api/veiculos/?mandbsnrcjjdjdnabhdjdjsjjsjnrsnsjjsjerbeg=Fijsjadfhnsnsyt`erwggerefwefrtthhwf
 ergergeraergergwefegwefgjejeewfewef
