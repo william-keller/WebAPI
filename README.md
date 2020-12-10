@@ -1,7 +1,7 @@
 # WebAPI Veiculosj
  Nsjjs
 Listar todos veiculosggg
-### GET `api/veiculos`jejejjwhdhhhesfweerg
+### GET `apnsji/veiculos`jejejjwhdhhhesfweerg
 Nsnsjhhhjddddjdjejjewf
 Buscar o vezsiwwwculo por idehsjjjsjskwjsdjjjjwrgergrsdvegggwef
 ### GET `ndapi/veiculos/{idnsn}hshbjjsj hjjsbshekmjjsjjwefejsbhjefhehdjdnbhkujjwjergjndgewfsjsjsdsjjth
