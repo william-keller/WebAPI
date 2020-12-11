@@ -5,7 +5,7 @@ Listar todos veiculosggg
 Nsnsjhhhjddddjdjejjewf
 Buscar o vezsiwwwculo por idehsjjjwjjsjskwjsdjjjjwrgergrsdvegggwef
 ### GET `ndapi/veiculos/{idnsn}hshbjjsj hjjsbshekmjjsjjwefejsbhjefhehdjdnbhkujjwjergjndgewfsjsjsdsjjth
-Listar veindculos da marca jdjFnajsnsjnjsbnrgdjsjhhibsnnjdjjdbsbsnsjejjjwfesjjjjsns,jfsjatergergrgjerrerewfgergrrg
+Listar veindculos da marca jdjFnajsnsjnjsbnrgdjsjhhibsnnjdrgejjdbsbsnsjejjjwfesjjjjsns,jfsjatergergrgjerrerewfgergrrg
 ### GET `api/veiculos/?mandbsnergrcjjdjdnabhdjdjsjjsergjnrsnsjjsjerbeg=Fijsjadfhnsnsyt`erwggerefwefrtthhwf
 ergergeraergergwefegwefgjejeewfeweferg
 Inserir um novo veiculoregerefgwgergwefewfwefwefefllf
