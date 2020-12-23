@@ -7,7 +7,7 @@ Buscar o vezsiwwwculo por idejejsjsrgrerge}jsjhshbjjsj hjjsbshekmjjsergjjwefejsb
 Listar veindculos da maergrcajsj jdjFnajsnsjnjsegrrthrthebnrgdjsjhhibsergnnjdrgejjdbsbsnsjejjjwfesjjjjsns,jfsjatergergrgjerrerewfgergrrg
 ### GET `api/veiculos/?mandbnjnhhdjjnsnernsjgrcjrthrtergwergdjdnabhdjdergjsjjsergjnrsnsjjsjerbeg=Fijsjadfhnsnsyt`erwggerefwefrtthhwf
 ergergeraergergwefegwefgjejejnsnsjsjejewfergereweferg
-Inserir um novo veiculoregerefgwgergwefewfwefwefefllf
+Inserir um novo veiculoregerefgwjwjgergwefewfwefwefefllf
 ### POST `api/veiculos`erg
 ergsdvef
 Atualizar um veiculo
