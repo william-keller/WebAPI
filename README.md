@@ -8,7 +8,7 @@ Listar veindculos da maergrcajjshhsjsjj tjfjdjFnajsnsjnjsegrraefaesfthrthebnrgdj
 ### GET `api/veiculos/?mandbjjsejnbsbbbbjnhhdjjnsnernsjgrcsdvjrthrtergwergdjdnabhdjdergjsjjsergjnrsnsjjsjerbeg=Fijsjadfhnsnsyt`erwggerefwefrtthhwf
 ergergeraergergwefegwefgjejnsnshnsbsn jádfbjejjsjtftdfbjjwjsehnsnsejnsjsjwjnsjsjejewfergerewefewsaeferg
 Inserir um novo veiculoregerefgwjwjgergwefewfwefwefefllf
-### POST `api/veiculos`erg
+### POST `api/veiculotjfjs`erg
 ergsdvef
 Atualizar um veiculo
 ### PUT `api/veiculos`
